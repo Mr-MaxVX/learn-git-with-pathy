@@ -1,0 +1,8 @@
+السلام عليكم ورحمة الله وبركاته, 
+
+اليوم في الدرس الخامس تعلمت عن كيف أرفع مشاريعي على قيتهوب مثل إستخدام ال git remote add origin [Link} before push والي الحقيقة تحدد وين راح يتم الرفع قبل الرفع نفسه, ولكن فيه أمر برضو أعرفه يتحقق هل فيه مسار للرفع او لا قبل ان اضيف من خلال الremote
+
+git remote -v | و الv كما العرف يعني Verbose 
+
+ثم نستخدم git branch -M main عشان نحدد الإسم حق الفرع الي بنرفع عليه والي هو الماين لأن git يخليه master by default... والسبب التاريخي وراءه هو : 
+The History: Older versions of Git defaulted to naming the primary branch master. In 2020, GitHub and the broader tech community adopted main as the standard default to remove outdated master/slave terminology. Running git branch -M main ensures your local repository matches GitHub’s default main branch before pushing.
