@@ -10,4 +10,4 @@ The History: Older versions of Git defaulted to naming the primary branch master
 
 
 طريقة جدًا ممتازة للتواصل والتنظيم بين الفريق في قيتهوب لإصلاح الأخطاء وإنشاء التذاكر للتوثيق وغيرها هي Issues 
-إستخدامها يكون سهل من خلال إنشاء issue وتعريفها ب lables حيث يمكن أن تتعدد الإستخدامات وهدفها إنشاء تذاكر ولديها القدرة على وضع asssign او ربط شخص بمهمة تذكرة معينه حتى يتم حلها ويقفل التذكرة
+إستخدامها يكون سهل من خلال إنشاء issue وتعريفها ب lables حيث يمكن أن تتعدد الإستخدامات وهدفها إنشاء تذاكر ولديها القدرة على وضع asssign او ربط شخص بمهمة تذكرة معينه حتى يتم حلها ويقفل التذكرةI want to have my first project that will change the world to better, G-G City ^_^
