@@ -6,3 +6,8 @@ git remote -v | و الv كما العرف يعني Verbose
 
 ثم نستخدم git branch -M main عشان نحدد الإسم حق الفرع الي بنرفع عليه والي هو الماين لأن git يخليه master by default... والسبب التاريخي وراءه هو : 
 The History: Older versions of Git defaulted to naming the primary branch master. In 2020, GitHub and the broader tech community adopted main as the standard default to remove outdated master/slave terminology. Running git branch -M main ensures your local repository matches GitHub’s default main branch before pushing.
+
+
+
+طريقة جدًا ممتازة للتواصل والتنظيم بين الفريق في قيتهوب لإصلاح الأخطاء وإنشاء التذاكر للتوثيق وغيرها هي Issues 
+إستخدامها يكون سهل من خلال إنشاء issue وتعريفها ب lables حيث يمكن أن تتعدد الإستخدامات وهدفها إنشاء تذاكر ولديها القدرة على وضع asssign او ربط شخص بمهمة تذكرة معينه حتى يتم حلها ويقفل التذكرة
